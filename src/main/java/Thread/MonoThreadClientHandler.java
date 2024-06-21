@@ -1,4 +1,7 @@
-package org.example;
+package Thread;
+
+import Log.MyLogger;
+import Log.ServLogger;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,5 +1,7 @@
 package org.example;
 
+import Log.ServLogger;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.ServerSocket;
