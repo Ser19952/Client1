@@ -1,6 +1,6 @@
 package org.example;
 
-import Log.ServLogger;
+import org.example.Log.ServLogger;
 
 import java.io.FileWriter;
 import java.io.IOException;

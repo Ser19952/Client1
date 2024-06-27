@@ -1,4 +1,4 @@
-package Thread;
+package org.example.Thread;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

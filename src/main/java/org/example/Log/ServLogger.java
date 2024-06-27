@@ -1,4 +1,4 @@
-package Log;
+package org.example.Log;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
